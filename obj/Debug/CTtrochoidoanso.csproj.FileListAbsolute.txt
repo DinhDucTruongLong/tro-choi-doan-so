@@ -1,0 +1,7 @@
+E:\DinhDucTruongLong-2180607124-BTWindows\CTtrochoidoanso\bin\Debug\CTtrochoidoanso.exe.config
+E:\DinhDucTruongLong-2180607124-BTWindows\CTtrochoidoanso\bin\Debug\CTtrochoidoanso.exe
+E:\DinhDucTruongLong-2180607124-BTWindows\CTtrochoidoanso\bin\Debug\CTtrochoidoanso.pdb
+E:\DinhDucTruongLong-2180607124-BTWindows\CTtrochoidoanso\obj\Debug\CTtrochoidoanso.csproj.AssemblyReference.cache
+E:\DinhDucTruongLong-2180607124-BTWindows\CTtrochoidoanso\obj\Debug\CTtrochoidoanso.csproj.CoreCompileInputs.cache
+E:\DinhDucTruongLong-2180607124-BTWindows\CTtrochoidoanso\obj\Debug\CTtrochoidoanso.exe
+E:\DinhDucTruongLong-2180607124-BTWindows\CTtrochoidoanso\obj\Debug\CTtrochoidoanso.pdb
